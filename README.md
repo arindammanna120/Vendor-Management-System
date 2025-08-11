@@ -1,0 +1,1 @@
+The Vendor Management System (VMS) is a web-based application developed using Spring Boot that enables organizations to efficiently manage their vendors, suppliers, and service providers. The system centralizes vendor-related information, streamlines onboarding, tracks performance, and ensures compliance with contractual agreements.
